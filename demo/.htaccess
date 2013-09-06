@@ -1,4 +1,4 @@
-IndexIgnore .htaccess */.??* *~ *# */HEADER* */README* */_vti*
+IndexIgnore *
 
 <Limit GET POST>
 order deny,allow
@@ -10,3 +10,4 @@ order deny,allow
 deny from all
 </Limit>
 AuthName kobiewatkins.com
+
