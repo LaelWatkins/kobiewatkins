@@ -49,22 +49,12 @@
 
             <nav>
                 <ul id="navigation" class="group">
-                    <li class="current_page_item current-menu-item"><a href="index.php">home</a></li>
-                <!--    <li><a href="#">Templates</a>
-                        <ul>
-                            <li><a href="blog-alt.html">Listing left sidebar</a></li>
-                            <li><a href="blog.html">Listing right sidebar</a></li>
-                            <li><a href="single-alt.html">Article left sidebar</a></li>
-                            <li><a href="single.html">Article right sidebar</a></li>
-                            <li><a href="fullwidth.html">Fullwidth</a></li>
-                            <li><a href="events.html">Events template</a></li>
-                            <li><a href="event.html">Single event template</a></li>
-                        </ul>
-                    </li> -->                   
-                    <li><a href="music.html">music</a></li>
+                    <li class="current_page_item current-menu-item"><a href="index.php">home</a></li>              
+                    <li><a href="music.html">music</a></li>                    
+                    <li><a href="discography.html">discography</a></li>
                      <li><a href="bio.html">bio</a></li>
+                     <li><a href="grouptet.html">grouptet</a></li>
                     <li><a href="contact.html">contact</a></li>
-                    <li><a href="grouptet.html">grouptet</a></li>
                 </ul>
             </nav>
         </div>
@@ -100,13 +90,7 @@
                     <a href="#" class="ci-read-more">Read More</a>
                 </div>
                 <!-- sld-desc -->
-            </li>
-            <li class="sld-item group">
-                <a href="grouptet.html  "><img src="demo/airport1.jpg" alt="kobie"></a><div class="sld-desc right">
-                    <h3><a href="#">Journey</a></h3>
-                </div>
-                <!-- sld-desc -->
-            </li>            
+            </li>          
         </ul>
     </div>
     <!-- .flexslider -->
@@ -115,11 +99,11 @@
 
 <section class="widget-block group">
     <div class="block widget">
-        <h3>Kobie Watkins Grouptet</h3>
-        <a href="grouptet.html"><img src="images/cdimages/kobie_ks.jpg" alt=""></a>
-        <h4><a href="grouptet.html">Journey</a></h4>
+        <h3>Kobie Watkins</h3>
+        <a href="grouptet.html"><img src="images/KBW_thumb.jpg" alt=""></a>
+        <h4><a href="grouptet.html">Grouptet</a></h4>
         <p>
-        A True Musical "Journey"!!! Translating 8 Years of World Travels into Inspired Jazz and World Music. 
+        Kobie Watkins Grouptet 
         </p>
     </div>
     <div class="block widget">
@@ -258,7 +242,7 @@
         <!-- widget-block -->
 
         <div class="site-copy">
-            <span>2012 kobiewatkins.com All Rights Reserved.</span>
+            <span>2016 kobiewatkins.com All Rights Reserved.</span>
         </div>
     </div>
     <!-- .wrap < #footer -->
